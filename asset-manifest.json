@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://silence-dream.github.io/csb-f8ukn/static/css/main.ed75d4df.chunk.css",
+    "main.js": "https://silence-dream.github.io/csb-f8ukn/static/js/main.7f6a67c7.chunk.js",
+    "main.js.map": "https://silence-dream.github.io/csb-f8ukn/static/js/main.7f6a67c7.chunk.js.map",
+    "runtime-main.js": "https://silence-dream.github.io/csb-f8ukn/static/js/runtime-main.ed887c82.js",
+    "runtime-main.js.map": "https://silence-dream.github.io/csb-f8ukn/static/js/runtime-main.ed887c82.js.map",
+    "static/js/2.0dfcf39a.chunk.js": "https://silence-dream.github.io/csb-f8ukn/static/js/2.0dfcf39a.chunk.js",
+    "static/js/2.0dfcf39a.chunk.js.map": "https://silence-dream.github.io/csb-f8ukn/static/js/2.0dfcf39a.chunk.js.map",
+    "index.html": "https://silence-dream.github.io/csb-f8ukn/index.html",
+    "static/css/main.ed75d4df.chunk.css.map": "https://silence-dream.github.io/csb-f8ukn/static/css/main.ed75d4df.chunk.css.map",
+    "static/js/2.0dfcf39a.chunk.js.LICENSE.txt": "https://silence-dream.github.io/csb-f8ukn/static/js/2.0dfcf39a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed887c82.js",
+    "static/js/2.0dfcf39a.chunk.js",
+    "static/css/main.ed75d4df.chunk.css",
+    "static/js/main.7f6a67c7.chunk.js"
+  ]
+}
